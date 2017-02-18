@@ -14,6 +14,9 @@ public class LA3SCM {
     /**
      * @param args the command line arguments
      */
+    
+    public void addFeaturB(){}
+            
     public static void main(String[] args) {
         
         System.out.println("Hello World");
